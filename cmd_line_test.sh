@@ -1,0 +1,1 @@
+curl http://localhost:11434/api/generate -d '{ "prompt": "What is the weather today?", "model": "deepseek-r1:latest"" }'
